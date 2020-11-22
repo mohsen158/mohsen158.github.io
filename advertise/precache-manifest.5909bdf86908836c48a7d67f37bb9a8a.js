@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0abd577d457c8ce2d99c",
-    "url": "css/app.0079922d.css"
+    "revision": "e0a89c85468470f550d2",
+    "url": "css/app.139d0164.css"
   },
   {
     "revision": "d7be65611d0a4c73e4f7",
@@ -172,7 +172,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/outline-icons.82f60bd0.svg"
   },
   {
-    "revision": "a4a72430e97b096f07534b910c50eb80",
+    "revision": "68399d5f52d77a3db64e028dcdedc8cd",
     "url": "index.html"
   },
   {
@@ -180,8 +180,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/about-legacy.d70fc3b2.js"
   },
   {
-    "revision": "0abd577d457c8ce2d99c",
-    "url": "js/app-legacy.f1589f43.js"
+    "revision": "e0a89c85468470f550d2",
+    "url": "js/app-legacy.74a09c3a.js"
   },
   {
     "revision": "d7be65611d0a4c73e4f7",
